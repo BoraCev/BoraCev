@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on face detection, and CNN works
 - 📫 How to reach me LinkedIN: https://www.linkedin.com/in/bora-cevirgen/ 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm form Turkiye
+- ⚡ Fun fact: I'm from Turkiye
 
 <!---
 BoraCev/BoraCev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
